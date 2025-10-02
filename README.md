@@ -37,7 +37,8 @@ Usage Guide
 	./demo.sh
 	
 Dataset and Video 
-![Demo GIF](https://drive.google.com/drive/folders/1ZrCLMxfkyagbMRBuOOKVCcFX046bf33V/object-track.gif)
+[Demo GIF](https://drive.google.com/drive/folders/1ZrCLMxfkyagbMRBuOOKVCcFX046bf33V/object-track.gif)
+
 
 
 
