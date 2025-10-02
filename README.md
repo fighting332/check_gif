@@ -36,8 +36,10 @@ Usage Guide
     chmod +x demo.sh 
 	./demo.sh
 	
-Dataset and Video 
-[Demo GIF](https://drive.google.com/drive/folders/1ZrCLMxfkyagbMRBuOOKVCcFX046bf33V/object-track.gif)
+Dataset and Video
+![Demo Video](check_0/object-track.gif)
+
+
 
 
 
